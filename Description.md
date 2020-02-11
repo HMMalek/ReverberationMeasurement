@@ -1,6 +1,6 @@
 
 
-## Measuring reverberation in a room through a log sweep
+# Measuring reverberation in a room through a log sweep
 
 ## Algorithm 
 
@@ -24,7 +24,7 @@ Constraint on the coefficient for silence removal: removing the silence at the e
 #### Calculating the RT30:
 
 ##### Schroeder’s backwards integration of the envelope: 
-The Schroeder’s integration is used to obtain a flat decay curve and is calculated as follows:   Ysch=∫_0^td▒〖〖Amp〗^2 (τ)dτ〗. <br/> 
+The Schroeder’s integration is used to obtain a flat decay curve and is calculated as follows:   Ysch=∫(0-td)(Amp)^2 (τ)dτ. <br/> 
 
 ##### Energy decay curve:
 Applying a logarithmic conversion of the integrated envelope.
