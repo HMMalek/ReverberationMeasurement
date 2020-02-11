@@ -17,7 +17,8 @@ For a better performance :
 
 #### The amplitude of the signal will be normalized. 
  
-#### Silence removal:  The process consists of defining the envelope of the recorded signal (using a moving max filter: imdilate) and then fixing a coefficient for which all values below will be omitted. <br/> 
+#### Silence removal: 
+The process consists of defining the envelope of the recorded signal (using a moving max filter: imdilate) and then fixing a coefficient for which all values below will be omitted. <br/> 
 Constraint on the coefficient for silence removal: removing the silence at the end of a wav file could mean removing echoes.
 
 #### Calculating the RT30:

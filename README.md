@@ -7,7 +7,6 @@ The goal of this project is measuring the reverberation criteria RT60 and RT30 w
 ## Details
 
 Please refer to the description file for more information concerning the entire process.
-![alt text](https://github.com/HMMalek/ReverberationMeasurement/blob/master/Flowchart.png "Flowchart")
 
 ## Architecture 
 
