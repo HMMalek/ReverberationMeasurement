@@ -4,6 +4,10 @@
 
 The goal of this project is measuring the reverberation criteria RT60 and RT30 with no knowledge about the room's volume or content. First a logsweep is played in the room and then recorded using a microphone. Once the audio is recorded it's then processed to obtain the energy's curve and later calculate the RT60. 
 
+## Algorithm 
+
+![alt text](https://github.com/HMMalek/ReverberationMeasurement/blob/master/Flowchart.png "Algorithm Flowchart")
+
 ## Details
 
 Please refer to the description file for more information concerning the entire process.
